@@ -9,5 +9,4 @@ Here, you'll find libraries and projects that help you interact with our platfor
 ## Resources
 
 - 📑 [Read the Documentation](http://ngrok.com/docs/)
-- 🌱 [Join ngrok's Community on Discord](http://ngrok.com/discord/)
 - 🚨 [Check Service Status](http://status.ngrok.com)
