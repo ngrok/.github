@@ -1,12 +1,12 @@
-## ngrok: Your app’s front door
+## ngrok
 
-🔗 http://ngrok.com
+http://ngrok.com
 
-Welcome to the home of ngrok's open source software projects that you can use to build on ngrok.
+Welcome to the home of ngrok's open source software projects.
 
-Here, you'll find libraries and projects that help you interact with our platform in powerful ways.
+You'll find libraries and tools that help you interact with our platform in powerful ways, plus some educational platforms, fun experiments, and homebrewed projects we didn't want to keep locked away in private repos forever.
 
 ## Resources
 
-- 📑 [Read the Documentation](http://ngrok.com/docs/)
-- 🚨 [Check Service Status](http://status.ngrok.com)
+- [Read our docs](http://ngrok.com/docs/)
+- [Check service status](http://status.ngrok.com)
